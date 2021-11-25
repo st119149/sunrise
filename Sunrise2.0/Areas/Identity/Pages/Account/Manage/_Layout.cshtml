@@ -1,0 +1,39 @@
+﻿@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout))
+    {
+        Layout = (string)parentLayout;
+    }
+    else
+    {
+        Layout = "/Areas/Identity/Pages/_Layout.cshtml";
+    }
+}
+
+<div class="service">
+    <div class="container">
+        <div class="service__wrapper">
+            <h3 class="service__title">Аккаунт</h3>
+            <div class="service__descr">A responsive, retina-ready & wide multipurpose template.</div>
+        </div>
+    </div>
+</div>
+
+<div class="manage-account">
+    <div class="container">
+        <div>
+            <div class="row">
+                <div class="col-md-3">
+                    <partial name="_ManageNav" />
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-8">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

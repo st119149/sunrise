@@ -1,0 +1,136 @@
+.catalog {
+    margin-top: 50px;
+}
+
+.catalog__header {
+    margin-bottom: 50px;
+}
+
+.catalog__options {
+   display: flex;
+   align-items: center;
+}
+
+.catalog__option {
+    min-width: 250px;
+    font-size: 15px;
+    color: $black;
+    text-decoration: none;
+    padding: 10px;
+    transition: 0.1s linear all;
+
+
+    i {
+        position: relative;
+        bottom: -2px;
+        right: -5px;
+    }
+
+    &:hover {
+        color: $blue;
+    }
+}
+
+.catalog__search {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    input {
+        border: 1px solid $blue;
+        border-radius: 5px;
+        padding: 5px;
+        font-size: 15px;
+        outline: none;
+        transition: 0.1s linear all;
+
+        &:focus {
+            border-color: $green;
+
+            & ~ button {
+                color: $green;
+            }
+        }
+    }
+
+    button {
+        border: none;
+        background: none;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 10px;
+        z-index: 21;
+        font-size: 15px;
+        color: $blue;
+        transition: 0.1s linear all;
+        cursor: pointer;
+    }
+}
+
+
+.catalog__content {
+    margin-bottom: 100px;
+}
+
+.catalog-item {
+    display: block;
+    position: relative;
+    max-width: 560px;
+    height: 450px;
+    margin-bottom: 30px;
+    border: 1px solid rgba(0,0,0,0.1);
+    overflow: hidden;
+    color: $black;
+    text-decoration: none;
+    transition: 0.3s ease-in-out all;
+
+    &:hover {
+        color: $black;
+
+        .catalog-item__img img {
+            transform: scale(1.02);
+        }
+
+        border-color: rgba(0,0,0,.3);
+    }
+}
+
+.catalog-item__img {
+    max-width: 100%;
+    min-height: 200px;
+    overflow: hidden;
+    position: relative;
+
+    img {
+        display: block;
+        width: 100%;
+        transition: 0.3s ease-in-out all;
+    }
+}
+
+.catalog-item__content {
+    padding: 20px;
+}
+
+.catalog-item__title {
+    font-size: 25px;
+}
+
+.catalog-item__city {
+    font-size: 15px;
+    opacity: 0.8;
+}
+
+.catalog-item__price {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    z-index: 6;
+    font-size: 30px;
+
+    span {
+        font-size: 20px;
+        opacity: 0.8;
+    }
+}
+

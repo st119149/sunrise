@@ -1,0 +1,46 @@
+﻿@page
+    @model LoginModel
+
+    @{ViewData["Title"] = "Login";}
+
+
+    @{
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+
+
+    <section class="login">
+        <div class="container">
+
+            <div class="login__inner">
+                <div class="login__dialog">
+                    <form id="account" method="post" class="form">
+
+                        <h3 class="form__title">Авторизация</h3>
+                        <div asp-validation-summary="All" class="text-danger"></div>
+
+                        <input asp-for="Input.Email" type="email" class="form__input" placeholder="Адрес электронной почты" />
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+
+                        <input asp-for="Input.Password" type="password" class="form__input" placeholder="Пароль" />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+                        <button type="submit" class="button form__button">Войти</button>
+
+                        @*<button type="submit" class="button form__button">Войти</button>*@
+                        <i class="fas fa-user-circle"></i>
+
+                    </form>
+                    <div class="authorization__reg">Нет аккаунта? <a href="~/identity/account/register">Регистрация</a></div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial"></partial>
+    }
+

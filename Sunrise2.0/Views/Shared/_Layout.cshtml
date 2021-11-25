@@ -1,0 +1,119 @@
+﻿@using Sunrise2._0.Areas.Identity.Data
+@using Microsoft.AspNetCore.Identity;
+
+@inject UserManager<Client> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="image/x-icon" rel="shortcut icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="~/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="~/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="~/fontawesome-free-5.15.3-web/css/all.min.css">
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="/css/style.min.css">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header__wrapper">
+
+                <a href="~/Home" class="logo header__logo">
+                    <img src="~/img/sunrise.svg" alt="logo">
+                </a>
+
+                <ul class="nav">
+                    <li class="nav__link has-subnav">
+                        <a href="~/Home">Главная</a>
+                        <ul class="subnav">
+                            <li class="subnav__link"><a href="~/Home#advantages">О нас</a></li>
+                            <li class="subnav__link"><a href="~/Home#cases">Испытать удачу</a></li>
+                            <li class="subnav__link"><a href="~/Home#popular-tours">Популярные туры</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav__link">
+                        <a href="~/Catalog">Туры</a>
+                    </li>
+                    
+                    @if (UserManager.GetUserName(User) == "albert@mail.ru")
+                            {
+                        <li class="nav__link">
+                            <a href="~/ManageTours">Управление</a>
+                        </li>
+                    }
+
+                    <partial name="_LoginPartial"></partial>
+
+
+                </ul>
+
+            </div>
+        </div>
+    </header>
+
+
+    @RenderBody()
+    @*<partial name="../../Areas/Identity/Pages/Account/Login"></partial>
+        <partial name="../../Areas/Identity/Pages/Account/Register"></partial>*@
+
+    <footer class="footer">
+        <div class="container">
+            <img src="~/img/footer/under.png" alt="" class="footer__devider">
+            <div class="row">
+
+                <div class="col-md-4">
+                    <ul class="nav footer__nav">
+                        <h3 class="footer__title">Главная</h3>
+                        <li class="nav__link"><a href="~/Home#advantages">О нас</a></li>
+                        <li class="nav__link"><a href="~/Home#cases">Испытать удачу</a></li>
+                        <li class="nav__link"><a href="~/Home#popular-tours">Популярные туры</a></li>
+                    </ul>
+                    <ul class="nav footer__nav">
+                        <h3 class="footer__title">Туры</h3>
+                        <li class="nav__link"><a href="~/Catalog">Выбор туров</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4">
+                    <h3 class="footer__title">Документы</h3>
+                    <div class="footer__partners">
+                        <img src="" alt="1">
+                        <img src="" alt="2">
+                        <img src="" alt="3">
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <h3 class="footer__title">Связаться с нами</h3>
+                    <div class="footer__about">
+                    </div>
+                    <div class="footer__socials" style="font-size:20px">
+                        <a href="#"><i class="fab fa-vk"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+    <script src="~/js/jquery.js"></script>
+    <script src="~/js/slick.min.js"></script>
+    <script src="~/js/script.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

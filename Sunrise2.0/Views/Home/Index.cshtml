@@ -1,0 +1,126 @@
+﻿@using Sunrise2._0.Storage.Entity
+@model IEnumerable<Tour>
+
+@{
+    ViewData["Title"] = "Sunrise";
+}
+
+
+<section class="promo">
+    <div class="container">
+
+        <div class="promo__inner">
+            <div class="promo__content">
+                <h1 class="promo__title">Лучшие туры по России</h1>
+                <div class="promo__descr">
+                    <p>Подарите себе незабывемое путешествие по городам России! Лучшие отели, популярные направления, горящие туры и не только. Спешите забронировать путевку.</p>
+                </div>
+                <a href="~/Catalog" class="button" style="text-decoration: none">Перейти в каталог</a>
+            </div>
+
+            <div class="promo__images">
+                <img src="img/promo/hill.png" alt="hill">
+                <img src="img/promo/house.png" alt="house">
+                <img src="img/promo/sun.png" alt="sun">
+                <img src="img/promo/birds1.png" alt="birds">
+                <img src="img/promo/birds2.png" alt="birds2">
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+
+<section id="advantages" class="advantages">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-4">
+                <div class="advantage">
+                    <div class="advantage__img">
+                        <img src="img/home/icon1.png" alt="">
+                    </div>
+                    <div class="advantage__title">Надежно</div>
+                    <div class="advantage__text">
+                        <p>В Sunrise работают профессионалы с многолетним опытом, которым вы можете доверить свой долгожданный отдых.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="advantage">
+                    <div class="advantage__img">
+                        <img src="img/home/icon2.png" alt="">
+                    </div>
+                    <div class="advantage__title">Выгодно</div>
+                    <div class="advantage__text">
+                        <p>Среди предложений Sunrise множество акций, которые помогут сделать ваш отдых наиболее выгодным.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="advantage">
+                    <div class="advantage__img">
+                        <img src="img/home/icon3.png" alt="">
+                    </div>                        <div class="advantage__title">Большой выбор</div>
+                    <div class="advantage__text">
+                        <p>Sunrise предлагает туры на любой вкус: пляжные, экскурсионные, комбинированные, горнолыжные, корпоративные, элитные. </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<div id="cases" class="service">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-6">
+                <div class="service__left">
+                    <h3 class="service__title">Испытай удачу</h3>
+                    <div class="service__descr">Сделай свое путешествие по-настоящему незабываемым</div>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="service__right">
+                    <button class="button">Попробовать</button>
+                    <div class="service__img">
+                        <img src="img/home/icon4.png" style="width: 130px" alt="">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<section id="popular-tours" class="popular-tours">
+    <div class="container">
+        <div class="popular-tours__title">Популярные направления</div>
+
+        <div class="carousel popular-tours__carousel">
+            @foreach (var i in Model)
+            {
+                <a class="carousel__item" href="~/Catalog/Buy?TourId=@i.Id">
+                    <img src="@Url.Action("GetImage", new { id = i.Id })" alt="tour">
+                </a>
+            }
+
+        </div>
+
+
+    </div>
+</section>
+
+
+
+
+

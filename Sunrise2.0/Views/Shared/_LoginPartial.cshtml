@@ -1,0 +1,33 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Sunrise2._0.Areas.Identity.Data
+
+@inject SignInManager<Client> SignInManager
+@inject UserManager<Client> UserManager
+
+    @if (SignInManager.IsSignedIn(User))
+    {
+
+        <li class="nav__link">
+            <a href="~/identity/Account/Manage">
+                @UserManager.GetUserName(User)
+                <i class="fas fa-user" style="margin-left: 5px;"></i>
+            </a>
+        </li>
+        <li class="nav__link">
+            <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button id="logout" type="submit">
+                Выйти
+                <i style="margin-left: 5px;" class="fas fa-sign-out-alt"></i>
+                </button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav__link">
+            <a data-modal="authorization" href="~/identity/Account/Login">
+                Авторизация
+                <i class="far fa-user"></i>
+            </a>
+        </li>
+    }

@@ -1,0 +1,1462 @@
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.exe
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.deps.json
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.json
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.dev.json
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfoInputs.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfo.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CoreCompileInputs.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.Manifest.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.xml
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sunrise2.0.styles.css
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.input.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.output.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorCoreGenerate.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CopyComplete
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.genruntimeconfig.cache
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.StaticWebAssets.xml
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Sunrise2.0\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csprojAssemblyReference.cache
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Sunrise2.0\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.StaticWebAssets.xml
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.exe
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.deps.json
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.json
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.dev.json
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csprojAssemblyReference.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfoInputs.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfo.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CoreCompileInputs.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.Manifest.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.xml
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sunrise2.0.styles.css
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.input.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.output.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorCoreGenerate.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cache
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CopyComplete
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.genruntimeconfig.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.StaticWebAssets.xml
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.exe
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.deps.json
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.json
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.dev.json
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfoInputs.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfo.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CoreCompileInputs.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.Manifest.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.xml
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sunrise2.0.styles.css
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.input.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.output.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorCoreGenerate.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CopyComplete
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.genruntimeconfig.cache
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package.json
+C:\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package.json
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Buy.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.json
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\package-lock.json
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\package.json
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.StaticWebAssets.xml
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.exe
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.deps.json
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.json
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.dev.json
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.pdb
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\3333\SUNR1SE\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csprojAssemblyReference.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfoInputs.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfo.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CoreCompileInputs.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.Manifest.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.xml
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sunrise2.0.styles.css
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.input.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.output.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorCoreGenerate.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Buy.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Search.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CopyComplete
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.dll
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.pdb
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.genruntimeconfig.cache
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\RaitingSortUp.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\PriseSortDown.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\PriseSortUp.cshtml.g.cs
+D:\3333\SUNR1SE\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\RaitingSortDown.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Search.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Buy.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Search.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package.json
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.StaticWebAssets.xml
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.exe
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.deps.json
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.json
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.dev.json
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csprojAssemblyReference.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfoInputs.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfo.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CoreCompileInputs.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.Manifest.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.xml
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sunrise2.0.styles.css
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.input.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.output.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorCoreGenerate.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Buy.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Search.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cs
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CopyComplete
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.genruntimeconfig.cache
+C:\Users\yaroslav\Desktop\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\BuyResult.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\BuyResult.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Add.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\BuyResult.cshtml.g.cs
+C:\Users\Соня\Desktop\sunrise\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Add.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Index.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Edit.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csprojAssemblyReference.cache
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\package-lock.json
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\package.json
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.StaticWebAssets.xml
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.exe
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.deps.json
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.json
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.dev.json
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\sunrise — копия\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csprojAssemblyReference.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfoInputs.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfo.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CoreCompileInputs.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.Manifest.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.xml
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sunrise2.0.styles.css
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.input.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.output.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorCoreGenerate.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Buy.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\BuyResult.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Search.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Add.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Edit.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Index.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cache
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cs
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CopyComplete
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\sunrise — копия\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.genruntimeconfig.cache
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package-lock.json
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\package.json
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.StaticWebAssets.xml
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.exe
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.deps.json
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.json
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.runtimeconfig.dev.json
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\web\sunrise\Sunrise2.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.AssemblyReference.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfoInputs.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.AssemblyInfo.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CoreCompileInputs.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorAssemblyInfo.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.Manifest.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\staticwebassets\Sunrise2.0.StaticWebAssets.xml
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.input.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.TagHelpers.output.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorCoreGenerate.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Buy.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\BuyResult.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Search.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Add.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Edit.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\ManageTours\Index.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cache
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.RazorTargetAssemblyInfo.cs
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.Views.pdb
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.csproj.CopyComplete
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.dll
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.pdb
+C:\web\sunrise\Sunrise2.0\obj\Debug\netcoreapp3.1\Sunrise2.0.genruntimeconfig.cache
